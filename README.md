@@ -1,3 +1,12 @@
+![Build](https://github.com/abs-hasan/ab-testing-search-ranking-impact/actions/workflows/ci.yml/badge.svg)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+![Python](https://img.shields.io/badge/python-3.10%20|%203.11-blue)
+![Last commit](https://img.shields.io/github/last-commit/abs-hasan/ab-testing-search-ranking-impact)
+![Issues](https://img.shields.io/github/issues/abs-hasan/ab-testing-search-ranking-impact)
+[![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
+
+
+
 # 📊 A/B Testing : Search Ranking Impact
 
 **🚀 Did a new search ranking system increase user bookings?**  
